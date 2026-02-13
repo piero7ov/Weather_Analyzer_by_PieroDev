@@ -1,0 +1,30 @@
+{
+  "settings": {
+    "interval_seconds": 300,
+    "forecast_hours": 48,
+    "timezone": "auto",
+    "snapshot_retention": 24
+  },
+  "cities": [
+    {
+      "id": "valencia_valencia_espa_a",
+      "query": "Valencia",
+      "countryCode": "ES",
+      "pick": 0,
+      "lat": 39.47391,
+      "lon": -0.37966,
+      "label": "Valencia · Valencia · España",
+      "timezone": "auto"
+    },
+    {
+      "id": "rebri_oara_bistri_a-n_s_ud_ruman_a",
+      "query": "Rebrisoara",
+      "countryCode": "RO",
+      "pick": 0,
+      "lat": 47.28333,
+      "lon": 24.45,
+      "label": "Rebrişoara · Bistrița-Năsăud · Rumanía",
+      "timezone": "auto"
+    }
+  ]
+}

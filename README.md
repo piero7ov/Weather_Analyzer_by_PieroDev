@@ -1,2 +1,0 @@
-# Weather_Analyzer_by_PieroDev
-Weather_Analyzer_by_PieroDev
